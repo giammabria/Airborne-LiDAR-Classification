@@ -4,7 +4,7 @@
 torch>=2.0.0
 torchvision>=0.15.0
 lightning>=2.0.0
-torchmetrics>=0.11.4
+torchmetrics>=1.8.2
 pyg_lib -f https://data.pyg.org/whl/torch-${2.7.0}+${cu128}.html
 torch_scatter -f https://data.pyg.org/whl/torch-${2.7.0}+${cu128}.html
 torch_cluster -f https://data.pyg.org/whl/torch-${2.7.0}+${cu128}.html
