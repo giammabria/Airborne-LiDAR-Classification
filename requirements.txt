@@ -11,7 +11,7 @@ torch_cluster -f https://data.pyg.org/whl/torch-${2.7.0}+${cu128}.html
 torch_geometric
 
 # --------- hydra --------- #
-hydra-core==1.3.2
+hydra-core==1.3.3
 hydra-colorlog==1.2.0
 hydra-optuna-sweeper==1.2.0
 
